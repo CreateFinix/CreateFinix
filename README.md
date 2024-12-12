@@ -29,4 +29,4 @@ Tem um projeto em mente ou quer saber mais sobre nossos serviços? Fique à vont
 
 ---
 
-Feito com 💻 por [CodeOpen](https://github.com/CodeOpen) | Todos os direitos reservados.
+Feito com 💻 por [CodeOpen](https://github.com/CodeOpenTech) | Todos os direitos reservados.
