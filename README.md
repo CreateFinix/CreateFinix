@@ -25,7 +25,7 @@ assim que tivermos um disponibilizaremos aqui.
 Tem um projeto em mente ou quer saber mais sobre nossos serviços? Fique à vontade para entrar em contato:
 
 - **Email**: [codeopen.tech@gmail.com](mailto:codeopen.tech@gmail.com)
-- **WhatsApp**: [Link para o WhatsApp](https://wa.me/5521966316177)
+- **WhatsApp**: [Link para o WhatsApp](https://wa.me/5521966311677?text=Olá,%20estou%20interessado%20nos%20seus%20serviços.)
 
 ---
 
