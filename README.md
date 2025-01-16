@@ -29,4 +29,4 @@ Tem um projeto em mente ou quer saber mais sobre nossos serviços? Fique à vont
 
 ---
 
-Feito com 💻 por [CreateFinix](https://bit.ly/CodeOpenTech) | Todos os direitos reservados.
+Feito com 💻 por [CreateFinix](https://createfinix.github.io/CreateFinix-WebSite/) | Todos os direitos reservados.
