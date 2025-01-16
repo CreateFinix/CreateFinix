@@ -1,6 +1,6 @@
-# CodeOpen
+# CreateFinix
 
-**CodeOpen** é uma startup focada em criar soluções digitais sob demanda. Oferecemos serviços personalizados de desenvolvimento de sites, sistemas e consultoria tecnológica para atender às necessidades únicas de nossos clientes.
+**CreateFinix** é uma startup focada em criar soluções digitais sob demanda. Oferecemos serviços personalizados de desenvolvimento de sites, sistemas e consultoria tecnológica para atender às necessidades únicas de nossos clientes.
 
 ## 🚀 O que fazemos
 
@@ -8,7 +8,7 @@
 - **Desenvolvimento de Sistemas**: Soluções sob medida para automação de processos e melhorias operacionais.
 - **Consultoria Tecnológica**: Ajudamos você a escolher as melhores tecnologias e a implementar soluções eficientes.
 
-## 🌍 Por que escolher a CodeOpen?
+## 🌍 Por que escolher a CreateFinix?
 
 - **Soluções Sob Medida**: Cada projeto é único e focado no seu negócio.
 - **Inovação Constante**: Estamos sempre atualizados com as últimas tendências tecnológicas.
@@ -24,9 +24,9 @@ assim que tivermos um disponibilizaremos aqui.
 
 Tem um projeto em mente ou quer saber mais sobre nossos serviços? Fique à vontade para entrar em contato:
 
-- **Email**: [codeopen.tech@gmail.com](mailto:codeopen.tech@gmail.com)
+- **Email**: [createfinix@gmail.com](mailto:createfinix@gmail.com)
 - **WhatsApp**: [Link para o WhatsApp](https://wa.me/5521966311677?text=Olá,%20estou%20interessado%20nos%20seus%20serviços.)
 
 ---
 
-Feito com 💻 por [CodeOpen](https://bit.ly/CodeOpenTech) | Todos os direitos reservados.
+Feito com 💻 por [CreateFinix](https://bit.ly/CodeOpenTech) | Todos os direitos reservados.
